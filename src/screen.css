@@ -4,3 +4,16 @@
 .container, .content {
 width: 100%;
 }
+.content{
+    display: inline-block;
+}
+.section{
+    width:48%;
+    display: inline-block;
+}
+.align-top{
+    vertical-align:top;
+}
+.align-vertical-center{
+    vertical-align:middle !important;
+}
